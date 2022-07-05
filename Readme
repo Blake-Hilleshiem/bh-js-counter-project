@@ -1,0 +1,7 @@
+#5) Counter Widget:
+
+- current count displayed
+- three buttons: decrease, reset, increase
+- three buttons that update the count respectively
+- current count should be black at 0, red in the negative, and green in the positive
+- STYLE EVERYTHING
